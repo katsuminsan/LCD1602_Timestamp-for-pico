@@ -7,7 +7,7 @@ Check out "sunfounder/euler-kit/micropython/lcd1602.py".
 Based on the above source code, I tried to make a device using an lcd1602 module and two push switches.
 It is assumed to be a small terminal for memorizing the time of arrival and departure.
 
-With this code, a small LCD display display and
+With this code, a small LCD display view and
 Page transition function, multiple item selection screen,
 Time selection screen, save confirmation screen.
 These are created based on ViewContents.py.
